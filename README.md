@@ -5,5 +5,5 @@ Sure! JavaScript (JS) is a versatile programming language primarily used for web
 * **Asynchronous Programming**: JS supports asynchronous programming through callbacks, promises, and async/await. This allows for non-blocking operations, making it easier to handle tasks like API requests without freezing the user interface.
 For more information [click here](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<img src="https://your-image-url.com/image.png" alt="My Image" width="400" height="300">
+![](https://i.imgur.com/eIDz4a0.png)
 
