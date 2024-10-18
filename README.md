@@ -5,4 +5,4 @@ Sure! JavaScript (JS) is a versatile programming language primarily used for web
 * **Asynchronous Programming**: JS supports asynchronous programming through callbacks, promises, and async/await. This allows for non-blocking operations, making it easier to handle tasks like API requests without freezing the user interface.
 For more information [click here](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-![JS](![image](https://github.com/user-attachments/assets/7b69bf74-b8b5-4c02-829e-2938625429ae))
+![JS](https://commons.wikimedia.org/wiki/File:JavaScript-logo.png)
